@@ -28,7 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'https://gifyu.com/image/4qq3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'http://g.recordit.co/NwOANwlkmy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Gif made with https://recordit.co/
 
 ## Notes
 
